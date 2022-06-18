@@ -1,0 +1,78 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.encabezado .tributo{
+    text-align: center;
+    color:antiquewhite
+
+}
+.encabezado{
+    margin: 2px ;
+    border: solid 4px;
+    background-color: rgb(39, 29, 112);
+} 
+
+a{
+    text-decoration: none;
+}
+
+.iron{
+    height: 20em;
+    width: 76em;
+    margin:1px;
+    padding:1px;
+    border: 4px solid red;
+    
+}
+
+.header{
+    
+    padding: 120px;
+    border: 4px solid red;
+    
+    }
+.maiden{
+    color:red;
+    text-align: center;
+
+}
+
+.eddie{
+    margin:6px;
+    padding:3px;
+    height: 400px;
+    width: 800px;
+    border: 4px solid red;
+    border-radius: 45px;
+}
+
+.items{
+    border: 2px solid red;
+    margin:6px;
+    padding:3px;
+    font-size: 40px;
+    background-color:rgb(16, 16, 133);
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.texto{
+    color:orangered
+    
+}
+
+.parrafo{
+    color: whitesmoke;    
+}
+
+.footer {
+    border: 2px solid red;
+    margin:6px;
+    padding:3px;
+    background-color: orangered;
+    font-weight:900;
+    color: whitesmoke;
+    text-align: center;
+
+}

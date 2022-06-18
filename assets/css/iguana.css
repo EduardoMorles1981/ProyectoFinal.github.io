@@ -1,0 +1,133 @@
+body{
+    margin: 0;
+    border: 0;
+    padding: 0;
+    font-family: 'Raleway', sans-serif;  
+    color: #FFFFFF;
+    background-color: #000000;
+   
+}
+
+header {
+
+    display: block;
+}
+
+
+header h1{
+    padding-top: 20px;
+    margin: 2px;
+    height: 75px;
+    width: 100%;
+    font-size: 50px;
+    font-weight: 500;
+    text-align: center;
+    
+    
+     
+}
+
+a{
+    color: #FFFFFF;
+    text-decoration: none;
+
+}
+
+.volteada img{
+    width: 100%;
+}
+
+.desc-section{
+    height: 348px;
+    
+}
+
+.texto {
+    display: inline-block;
+    padding-left: 150px;
+    padding-top: 72px;
+    width: 35%;
+    margin-right: 16px;
+    font-weight: 300;
+    line-height: 20px;
+
+}
+
+.primero{
+    margin-bottom: 20px;
+    text-align: justify;
+
+}
+
+.segundo {
+    margin-top: 20px;
+    text-align: justify;
+
+}
+
+.iguana-joven {
+    float: right;
+    height: 187px;
+    width: 399px;
+    padding-right: 124px;
+    padding-top: 78px;
+    margin-left: 36px;
+ }
+
+.iconos{
+    padding-top: 1%;
+    padding-bottom: 1%;
+    height: 398px;
+    background-color: #1E1A13;
+    text-align: center;
+}
+
+.iconos h2{
+    font-size: 40px;
+    padding-top: 42px;
+    font-weight: 500;
+    padding-bottom: 60px;
+}
+
+.iconos .icons {
+    padding-inline: 6%;
+    width: 200px;
+    display: inline-block;
+}
+
+.iconos .icons i{
+    padding-bottom: 8px;
+}
+
+.iconos .icons p{
+    font-weight: 300;
+    font-size: 24px;
+}
+
+section {
+    height: 398px;
+    line-height: 398px;
+    text-align: center;
+}
+
+section .iguagenes {
+    display: inline-block;
+    margin: 8px;
+    height: 162px;
+    width: 299px;
+    vertical-align: middle;
+}
+
+footer{
+    display: block;
+    background-color: #1E1A13;
+    height: 122px;
+    line-height: 122px;
+}
+
+footer p {
+    text-align: center;
+    font-size: 20px;
+    font-weight: 300;
+}
+
