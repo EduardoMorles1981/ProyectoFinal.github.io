@@ -1,5 +1,7 @@
 body {
     font-family: "Raleway", sans-serif;
+    background: url(/ProyectoFinal.github.io/assets/img/bg-binary.jpg);
+       
   }
   
   /* Hero Section */
@@ -13,10 +15,14 @@ body {
   
   #Hero-Section p{
     color:black;
+    
   }
   
   /*About me Section*/
-  
+
+  .row{
+    background-color: #373a3c;
+  }  
   
   .icons_1{
     color: greenyellow;
@@ -34,9 +40,11 @@ body {
   }
   .my-3{
     text-align: justify;
+    color: white;
   }
   .titles{
     text-align: center;
+    color: white;
   }
   
   
@@ -62,6 +70,8 @@ body {
   }
   
   /* Contacto */
+
+  
   
   #Contacto form label {
     font-weight: 700;
