@@ -1,7 +1,6 @@
 body {
     font-family: "Raleway", sans-serif;
-    background: url(/ProyectoFinal.github.io/assets/img/bg-binary.jpg);
-       
+          
   }
   
   /* Hero Section */
@@ -20,10 +19,6 @@ body {
   
   /*About me Section*/
 
-  .row{
-    background-color: #373a3c;
-  }  
-  
   .icons_1{
     color: greenyellow;
     zoom: 2;
@@ -40,11 +35,11 @@ body {
   }
   .my-3{
     text-align: justify;
-    color: white;
+    color: black;
   }
   .titles{
     text-align: center;
-    color: white;
+    color: black;
   }
   
   
